@@ -72,7 +72,7 @@ Wanderlust/
 
 ### 1️⃣ Clone the Repository
 ```
-git clone https://github.com/yourusername/wanderlust.git
+git clone https://github.com/abhirajput-19/wanderlust.git
 cd wanderlust
 ```
 
@@ -84,17 +84,17 @@ npm install
 ### 3️⃣ Configure Environment Variables
 Create a .env file in the root directory:
 ```
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_KEY=your_cloud_key
-CLOUDINARY_SECRET=your_cloud_secret
-MAPBOX_TOKEN=your_mapbox_token
-DB_URL=your_mongodb_url
+CLOUD_NAME=your_cloudinary_cloud_name
+CLOUD_API_KEY=your_cloudinary_cloud_key
+CLOUD_API_SECRET=your_cloudinary_cloud_secret
+MAP_TOKEN=your_mapbox_token
+ATLASDB_URL=your_mongodb_url
 SECRET=your_session_secret
 ```
 
 ### 4️⃣ Run the App
 ```
-npm start
+nodemon app.js
 ```
 The app will run at: http://localhost:8080
 
