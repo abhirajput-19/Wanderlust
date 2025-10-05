@@ -48,6 +48,14 @@ It allows users to list, review, and manage travel accommodations with secure au
 
 ---
 
+## 🚀 Deployment
+
+The Wanderlust application is deployed and live!
+
+🔗 **Live Demo:** [https://wanderlust-d897.onrender.com](https://wanderlust-d897.onrender.com)
+
+---
+
 ## 🧩 Project Structure
 
 ```
