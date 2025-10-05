@@ -51,7 +51,7 @@ It allows users to list, review, and manage travel accommodations with secure au
 ## 🧩 Project Structure
 
 ```
-Wanderlust/
+wanderlust/
   │
   ├── app.js                 # Main Express setup
   ├── models/                # Mongoose schemas (Listing, Review, User)
