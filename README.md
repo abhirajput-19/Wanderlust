@@ -3,8 +3,6 @@
 **Wanderlust** is a full-stack web application inspired by **Airbnb**, built during the **Delta Web Development Course**.  
 It allows users to list, review, and manage travel accommodations with secure authentication, image uploads, and map integration.  
 
-![Wanderlust Banner](#) <!-- Optional: add a project banner or screenshot link -->
-
 ---
 
 ## 🚀 Tech Stack
@@ -81,7 +79,6 @@ cd wanderlust
 ### 2️⃣ Install Dependencies
 ```
 npm install
-
 ```
 
 ### 3️⃣ Configure Environment Variables
@@ -98,7 +95,6 @@ SECRET=your_session_secret
 ### 4️⃣ Run the App
 ```
 npm start
-
 ```
 The app will run at: http://localhost:8080
 
@@ -109,7 +105,6 @@ The app will run at: http://localhost:8080
 To seed the database with sample data:
 ```
 node init/index.js
-
 ```
 
 ---
